@@ -20,6 +20,7 @@
         <module name="studentCourse-service" />
         <module name="course-service" />
         <module name="discovery-server" />
+        <module name="teacher-service" />
         <module name="ui" />
         <module name="person-service" />
         <module name="api-gateway" />
@@ -27,7 +28,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="teacher-service" target="17" />
       <module name="UI" target="19" />
       <module name="university" target="17" />
     </bytecodeTargetLevel>
